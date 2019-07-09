@@ -6,7 +6,7 @@
         },
         {
             "path": "force-app/main/default",
-            "package": "BitbucketPipelines",
+            "package": "BitbucketPipelines2",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
@@ -16,7 +16,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "BitbucketPipelines": "0Ho0N000000CaTDSA0",
-        "BitbucketPipelines@0.1.0-1": "04t0N000001E1o6QAC"
+        "BitbucketPipelines2": "0Ho4P0000008OQTSA2",
+        "BitbucketPipelines2@0.1.0-1": "04t4P000002ErxaQAC"
     }
 }
